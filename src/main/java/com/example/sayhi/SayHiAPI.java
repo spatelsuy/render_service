@@ -1,4 +1,4 @@
-package com.example;
+package com.example.sayhi;
 
 import static spark.Spark.*;
 
